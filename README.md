@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kstra3
+- 👀 I’m interested in many differebt things and one of them is coding
+- 🌱 I’m currently learning as many things I can!!!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love working out and playing chess! Also I am into watching series/anime & movies!
