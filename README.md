@@ -1,38 +1,171 @@
-Hi 👋 My name is Stratos Kampouris
-==================================
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Stratos+Kampouris+%F0%9F%91%8B;Computer+Science+%26+Bioinformatics+Student;%7C+Problem+Solver;Welcome+to+my+digital+space!" alt="Typing SVG" />
+</div>
 
-I am a student in computer science & bioinformatics
---------------------------------------------------
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Stratos%20Kampouris&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
 
-\- 👋 Hi, I’m @kstra3 - 👀 I’m interested in many differebt things and one of them is coding. - 🌱 I’m currently learning as many things I can!!! - 😄 Pronouns: He/Him - ⚡ Fun fact: I love working out and playing chess! Also I am into watching series/anime & movies, bartending and fishing! Furthermore I am a graphic designer in canva!
+---
 
-* 🌍  I'm based in Greece
-* ✉️  You can contact me at [stratos.kampouris3@gmail.com](mailto:stratos.kampouris3@gmail.com)
-* 🧠  I'm learning How to be a programmer!
-* 🤝  I'm open to collaborating on In projects that will be fun, educatice and with nice people
-* ⚡  Contact me even if you want a friend and lets meet each other!!!
+## 🚀 About Me
 
-<a href="https://www.github.com/kstra3" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kstra3?logo=github&style=for-the-badge&color=444e59&labelColor=000000" /></a>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### Skills
+```typescript
+const stratos = {
+    location: "🇬🇷 Greece",
+    education: "Computer Science & Bioinformatics",
+    currentFocus: ["Python", "C", "SQL", "Java"],
+    interests: ["Cybersecurity", "Bioinformatics", "UI/UX Design"],
+    hobbies: ["Chess ♟", "Anime 🎬", "Bartending 🍸"],
+    motto: "Code with purpose, design with passion",
+    currentlyLearning: "Advanced Algorithms & Data Structures",
+    funFact: "I debug code better with coffee ☕"
+};
+```
 
+### 🎯 Current Goals
+- 🔬 Building bioinformatics tools for genomic analysis
+- 🔐 Developing cybersecurity projects  
+- 🎨 Creating seamless user experiences
+- 📚 Contributing to open-source projects
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
+---
 
+## 🛠️ Tech Arsenal
 
-### Socials
+### 💻 Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,html,css,js,typescript,sql&theme=dark" />
+</div>
 
-<p align="left"> <a href="https://discord.com/users/kstra3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/kstra3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/stratos._kampouris" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/stratos-kampouris" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### 🔧 Tools & Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,postgres,docker,linux,windows&theme=dark" />
+</div>
 
-### Badges
+### 🎨 Design & Creative
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,aftereffects,premiere&theme=dark" />
+</div>
 
-<b>My GitHub Stats</b>
+### 📊 Data Science & Analytics
+<div align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</div>
 
-<a href="http://www.github.com/kstra3"><img src="https://github-readme-stats.vercel.app/api?username=kstra3&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&show_icons=true" alt="kstra3's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/kstra3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kstra3&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 📈 GitHub Analytics
 
-<a href="http://www.github.com/kstra3"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kstra3&bg_color=000000&color=ffffff&line=444e59&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kstra3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kstra3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kstra3&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&currStreakLabel=5BCDEC&sideNums=FFFFFF&sideLabels=A9A9A9&dates=A9A9A9"/>
+</div>
+
+### 📊 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kstra3&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true"/>
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kstra3&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+  
+  [![Secure Password Generator](https://github-readme-stats.vercel.app/api/pin/?username=kstra3&repo=RandomSecureCodes&theme=tokyonight&hide_border=true)](https://github.com/kstra3/RandomSecureCodes)
+  
+</div>
+
+### 🔐 Secure Password Generator
+- **Tech Stack:** Python, PyQt5, Cryptography
+- **Features:** Advanced encryption, breach detection, GUI interface
+- **Impact:** Enhanced security with professional-grade password management
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stratos.kampouris3@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stratos-kampouris)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kstra3)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stratos._kampouris)
+  
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Python       8 hrs 42 mins   ████████████░░░░░░░░░░░░░   48.32%
+C            3 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   18.07%
+SQL          2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.89%
+HTML/CSS     1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   9.72%
+Other        1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.00%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 🎮 When I'm Not Coding
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
+</div>
+
+```ascii
+     ♟️ Chess Rating: 1650+     🎬 Anime Watched: 200+     🍸 Cocktails Mastered: 50+
+```
+
+---
+
+## 📅 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kstra3/kstra3/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=kstra3&label=Profile%20views&color=0e75b6&style=for-the-badge)
+  ![Followers](https://img.shields.io/github/followers/kstra3?label=Followers&style=for-the-badge&color=blue)
+  ![Stars](https://img.shields.io/github/stars/kstra3?label=Stars&style=for-the-badge&color=yellow)
+  
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
