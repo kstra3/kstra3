@@ -157,10 +157,11 @@ Other        1 hr 48 mins    ██░░░░░░░░░░░░░░░
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kstra3/kstra3/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 ---
 
 <div align="center">
-  
+
   ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
   
   ![Profile Views](https://komarev.com/ghpvc/?username=kstra3&label=Profile%20views&color=0e75b6&style=for-the-badge)
@@ -168,6 +169,23 @@ Other        1 hr 48 mins    ██░░░░░░░░░░░░░░░
   ![Stars](https://img.shields.io/github/stars/kstra3?label=Stars&style=for-the-badge&color=yellow)
   
 </div>
+
+## 🌐 **Portfolio:** 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=435&lines=%F0%9F%9A%A7+Under+Construction+%F0%9F%9A%A7;Coming+Soon...;kstra3.dev" alt="Portfolio Coming Soon" />
+</div>
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&repeat=false&width=500&lines=⏰+Portfolio+launching+soon...;🎯+Target%3A+kstra3.dev;🔥+Amazing+projects+coming!" alt="Countdown" />
+</div>
+
+
+
+<div align="center">
+  
+ 
+![Dark Mode Friendly](https://img.shields.io/badge/🌙_Best_In-Dark_Mode-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=21262D&color=238636)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
