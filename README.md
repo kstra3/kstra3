@@ -143,7 +143,7 @@ Other        1 hr 48 mins    ██░░░░░░░░░░░░░░░
 </div>
 
 ```ascii
-     ♟️ Chess Rating: 1650+     🎬 Anime Watched: 200+     🍸 Cocktails Mastered: 50+
+     ♟️ Chess Rating: 1750+     🎬 Anime & Series & Movies Watched: 3000+     🍸 Cocktails Mastered: 50+
 ```
 
 ---
@@ -151,9 +151,8 @@ Other        1 hr 48 mins    ██░░░░░░░░░░░░░░░
 ## 📅 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kstra3/kstra3/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/kstra3/kstra3/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
-
 ---
 
 <div align="center">
