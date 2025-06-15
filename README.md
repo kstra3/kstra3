@@ -1,5 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Stratos+Kampouris+%F0%9F%91%8B;Computer+Science+%26+Bioinformatics+Student;%7C+Problem+Solver;Welcome+to+my+digital+space!" alt="Typing SVG" />
+  <!-- Custom ASCII Logo -->
+  <pre>
+██╗  ██╗███████╗████████╗██████╗  █████╗ ██████╗ 
+██║ ██╔╝██╔════╝╚══██╔══╝██╔══██╗██╔══██╗╚════██╗
+█████╔╝ ███████╗   ██║   ██████╔╝███████║ █████╔╝ 
+██╔═██╗ ╚════██║   ██║   ██╔══██╗██╔══██║ ╚═══██╗ 
+██║  ██╗███████║   ██║   ██║  ██║██║  ██║██████╔╝ 
+╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  
+  </pre>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Stratos+Kampouris+%F0%9F%91%8B;Computer+Science+%26+Bioinformatics+Student;Graphic+Designer+%7C+Problem+Solver;Welcome+to+my+digital+space!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,7 +20,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```typescript
 const stratos = {
