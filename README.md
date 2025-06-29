@@ -1,14 +1,20 @@
 <div align="center">
-  <!-- Custom ASCII Logo -->
-  <pre>
-██╗  ██╗███████╗████████╗██████╗  █████╗ ██████╗ 
-██║ ██╔╝██╔════╝╚══██╔══╝██╔══██╗██╔══██╗╚════██╗
-█████╔╝ ███████╗   ██║   ██████╔╝███████║ █████╔╝ 
-██╔═██╗ ╚════██║   ██║   ██╔══██╗██╔══██║ ╚═══██╗ 
-██║  ██╗███████║   ██║   ██║  ██║██║  ██║██████╔╝ 
-╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  
-  </pre>
-  
+  <div style="position: relative; margin-top: -120px;">
+    <pre>
+╔══════════════════════════════════════════════════════════╗
+║  ██╗  ██╗███████╗████████╗██████╗  █████╗ ██████╗        ║
+║  ██║ ██╔╝██╔════╝╚══██╔══╝██╔══██╗██╔══██╗╚════██╗       ║
+║  █████╔╝ ███████╗   ██║   ██████╔╝███████║ █████╔╝        ║
+║  ██╔═██╗ ╚════██║   ██║   ██╔══██╗██╔══██║ ╚═══██╗        ║
+║  ██║  ██╗███████║   ██║   ██║  ██║██║  ██║██████╔╝        ║
+║  ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝         ║
+║                                                          ║
+║  > whoami: Computer Science & Bioinformatics Student     ║
+║  > location: Greece 🇬🇷                                  ║
+║  > status: Building the future, one commit at a time     ║
+╚══════════════════════════════════════════════════════════╝
+    </pre>
+  </div>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Stratos+Kampouris+%F0%9F%91%8B;Computer+Science+%26+Bioinformatics+Student;Graphic+Designer+%7C+Problem+Solver;Welcome+to+my+digital+space!" alt="Typing SVG" />
 </div>
 
@@ -111,16 +117,45 @@ const stratos = {
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Connect & Collaborate
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stratos.kampouris3@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stratos-kampouris)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kstra3)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stratos._kampouris)
+  <!-- Enhanced Contact Section -->
+  <table>
+  <tr>
+  <td align="center" width="33%">
+    
+### 💼 Professional
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:stratos.kampouris3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stratos-kampouris)
+
+  </td>
+  <td align="center" width="33%">
+    
+### 🎮 Social
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kstra3)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stratos._kampouris)
+
+  </td>
+  <td align="center" width="34%">
+    
+### 🤝 Collaboration
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kstra3)
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-00A652?style=for-the-badge&logo=work&logoColor=white)](#)
+
+  </td>
+  </tr>
+  </table>
   
 </div>
+
+### 🤝 Let's Build Together!
+> I'm always excited to collaborate on innovative projects, especially in:
+> - 🧬 **Bioinformatics research and tools**
+> - 🔐 **Cybersecurity solutions**
+> - 🎓 **Educational technology**
+> - 🌱 **Open source contributions**
 
 ---
 
@@ -146,20 +181,31 @@ Other        1 hr 48 mins    ██░░░░░░░░░░░░░░░
 
 ---
 
-## 🎮 When I'm Not Coding
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
 </div>
 
-```ascii
-     ♟️ Chess Rating: 1750+     🎬 Anime & Series & Movies Watched: 3000+     🍸 Cocktails Mastered: 50+
-```
+## 🎭 Beyond the Code
+
+<div align="center">
+
+### 🌟 Life Philosophy
+*"Technology should serve humanity, not the other way around"*
+
+<table>
+<tr>
+<td align="center">♟️<br><b>Chess Strategy</b><br>Rating: 1750+</td>
+<td align="center">🍸<br><b>Mixology Art</b><br>50+ Cocktails</td>
+<td align="center">🎬<br><b>Storytelling</b><br>3000+ Hours</td>
+<td align="center">🎵<br><b>Music Production</b><br>Hobbyist</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📅 Contribution Snake
-
+## 🐍 GitHub Activity Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kstra3/kstra3/output/github-contribution-grid-snake-dark.svg">
